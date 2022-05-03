@@ -8,7 +8,7 @@
 
 ## 长毛象是什么
 
-<iframe title="长毛象是什么？" width="560" height="315" src="https://peertube.co.uk/videos/embed/559ab664-22c3-4986-9e20-f32afa957648?subtitle=zh&amp;warningTitle=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+<iframe title="What is Mastodon?" width="560" height="315" src="https://peertube.tv/videos/embed/f7ada612-8097-43b7-92fa-8d992840cb15?subtitle=zh&amp;title=0&amp;warningTitle=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 **长毛象** (*Mastodon*) 是一款**微博客型**社交平台，你可以发布嘟文，分享图片，关注 /@你的好友，点赞或是评论 —— 就像你能在微博 / Twitter 中做到的那样。然而长毛象的与众不同之处在于长毛象是一个**平台**，在这个平台上有各式各样性格各异五彩缤纷的独立**社区**，而每一个社区都可以在长毛象这个平台上交流互动；更赞的是，你甚至可以开创一个属于自己的长毛象社区。
 
